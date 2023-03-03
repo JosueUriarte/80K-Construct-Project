@@ -1,2 +1,2 @@
-# 80K-Construct-Project
- a simple game made using Construct3
+# Parkouring Stickman!
+ a simple platformer game made using Construct3.
